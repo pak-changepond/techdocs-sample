@@ -1,0 +1,4 @@
+site_name: techdocs-sample
+nav:
+  - Home: index.md
+docs_dir: docs
