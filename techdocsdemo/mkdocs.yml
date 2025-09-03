@@ -1,0 +1,6 @@
+site_name: Techdocs Demo
+nav:
+  - Home: index.md
+  # - Other Docs: other-docs.md
+plugins:
+  - techdocs-core
