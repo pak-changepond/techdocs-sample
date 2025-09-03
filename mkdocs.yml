@@ -1,4 +1,6 @@
 site_name: techdocs-sample
 nav:
   - Home: index.md
+  - Helper Functions: helpers.md
+  - API Reference: api.md
 docs_dir: docs
